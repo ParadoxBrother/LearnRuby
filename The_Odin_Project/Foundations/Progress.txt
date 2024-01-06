@@ -1,7 +1,7 @@
 Introduciton (Complete)
 Prerequisites (Complete)
 Git Basics (Complete)
-HTML Foundations
+HTML Foundations (Complete)
 CSS Foundations
 Flexbox
 JavaScript Basics
