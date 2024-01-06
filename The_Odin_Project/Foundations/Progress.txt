@@ -1,6 +1,6 @@
 Introduciton (Complete)
 Prerequisites (Complete)
-Git Basics (Progress)
+Git Basics (Complete)
 HTML Foundations
 CSS Foundations
 Flexbox
