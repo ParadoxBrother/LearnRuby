@@ -1,2 +1,2 @@
 # LearnRuby
-GitHub Repo Tracking my Ruby Progress in The Odin Project
+GitHub Repo Tracking my progress in The Odin Project
