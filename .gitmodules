@@ -1,0 +1,3 @@
+[submodule "The_Odin_Project/Foundations/CSS/css-exercises"]
+	path = The_Odin_Project/Foundations/CSS/css-exercises
+	url = git@github.com:TheOdinProject/css-exercises.git
