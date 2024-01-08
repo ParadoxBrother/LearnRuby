@@ -1,0 +1,24 @@
+
+body {
+    font-family: "Lucida Console", monospace;
+    color: #413208;
+    background-color: #f4f1ea;
+    text-align: center;
+}
+
+.webpage-title {
+    font-size: 46px;
+    font-weight: bold;
+}
+
+a {
+    color: #413208;
+}
+
+.recipie-link {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+/*#cea52d - yellow*/
+/*#f4f1e9 - whitish font*/
