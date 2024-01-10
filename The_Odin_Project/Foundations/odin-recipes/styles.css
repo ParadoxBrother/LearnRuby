@@ -1,21 +1,35 @@
+html { 
+    box-sizing: border-box;
+}
+
+*, *::before, *::after { 
+    box-sizing: inherit;
+}
+
+/** { border: 1px solid black; }*/
 
 body {
+    margin: auto;
+    
     font-family: "Lucida Console", monospace;
     color: #413208;
     background-color: #f4f1ea;
-    text-align: center;
 }
 
 .webpage-title {
     font-size: 46px;
     font-weight: bold;
+    text-align: center;
+}
+
+.recipe-list {
+    margin: auto;
+
+    text-align: center;
 }
 
 a {
     color: #413208;
-}
-
-.recipie-link {
     font-size: 24px;
     font-weight: 600;
 }

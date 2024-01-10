@@ -1,5 +1,19 @@
+html { 
+    box-sizing: border-box;
+}
 
-body {
+*, *::before, *::after { 
+    box-sizing: inherit;
+}
+
+/** { border: 1px solid black; }*/
+
+.the-body {
+    margin: auto;
+    max-width: 1000px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
     font-family: "Lucida Console", monospace;
     color: #413208;
     background-color: #f4f1ea;
@@ -22,8 +36,10 @@ body {
 
 .image {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+
+    width: auto;
+    height: 300px;
 }
 
 a {
