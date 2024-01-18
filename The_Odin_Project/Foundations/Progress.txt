@@ -3,5 +3,5 @@ Prerequisites (Complete)
 Git Basics (Complete)
 HTML Foundations (Complete)
 CSS Foundations (Complete)
-Flexbox
+Flexbox (Complete)
 JavaScript Basics
